@@ -1,6 +1,6 @@
 # card-component-scrimba
 #### A simple flexbox exercise
 
-#### Design Layout
+#### Design Layout is [here .](https://xd.adobe.com/spec/cb9c126e-3af6-4d8b-6a5d-4988e89ec559-bdad/)
 
-![Screenshot (65)](https://user-images.githubusercontent.com/85759426/142952410-dd26080a-725f-425f-815d-d6e23ceeb78f.png)
+
